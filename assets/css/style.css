@@ -1,0 +1,245 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*    Navbar css   */
+
+.dialogues{
+    margin-right: 30px;
+    font-size: 35px;
+    text-decoration: none;
+    color: #ac124bb3;
+}
+.dialogues:hover{
+    margin-right: 30px;
+    font-size: 35px;
+    text-decoration: none;
+    color: #ac124bb3;
+}
+#span{
+    font-size: 12px;
+    font-weight: bold;
+    color: #0000009e;
+}
+
+nav a:not(:first-child){
+    color:#304b99d1;
+    margin-right: 16px;
+    margin-top: 22px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+
+    
+}
+h5{
+    font-size: 0;
+}
+
+
+hr{
+    border:0.5px solid #00000038;
+
+}
+
+/*  MENU  */
+
+.events{
+    color:#3a4d87d1;
+    margin-bottom: 30px;
+
+}
+.upcoming{
+    margin-bottom: 30px;
+    color:#ac124bb3;
+}
+.upcoming h6{
+  font-size:26px;
+}
+text{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #1844cbd1;
+    margin-top: 40px;
+
+}
+p{
+    font-size: 20px;
+
+}
+.previous{
+    margin-top: 100px;
+}
+.readmore{
+background: white;
+color: blue;
+border-radius: 8px;
+font-size: 18px;
+margin-top: 22px;
+ margin-left: 1030px;
+}
+
+
+
+.imags{
+    position: relative;
+}
+.date{
+    position: absolute;
+    bottom: 170px;
+    color: white;
+    padding:0px 10px 2px 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+
+
+/* Footer  */
+footer {
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.f-address li {
+    display: inline-block;
+}
+.f-address li i {
+    color: #2995de;
+    font-size: 18px;
+}
+
+.abt{
+    color:#ac124bb3;
+    font-family: unset;
+    font-size: 20px;
+}
+.ft{
+    margin-bottom: 50px;
+}
+.list{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.foter{
+    position: relative;
+}
+.footer-baku{
+    display: block;
+    width: 300px;
+    height: 40px;
+    position: absolute;
+    top: -47px;
+    left: 253px;
+}
+.ft-txt{
+    right: -97px;
+}
+.maps{
+   margin-left: 12px;
+}
+.number{
+    margin-left: 10px;
+}
+.copry{
+    position: absolute;
+    top: 170px;
+    font-weight: 300;
+    left: 74px
+}
+.free{
+    position: absolute;
+    top: -44px;
+    font-size: 27px;
+    font-weight: 400;
+    color: black;
+    
+}
+
+#name{
+    width: 670px;
+    margin-left: 15px;
+}
+#acedmy{
+    margin-top: 18px;
+    width: 420px;
+}
+#position{
+    margin-left: 10px;
+    width: 352px
+}
+.dialog{
+    color:red;
+    margin-right: 60px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #ac124bb3;
+}
+button{
+    margin-top: 18px;
+    width: 790px;
+}
+@media screen  and (max-width:1366px){
+    .dialogues {
+        margin-right: 20px;
+        font-size: 24px;
+        text-decoration: none;
+        color: #ac124bb3;
+    }
+    .ft-txt {
+        right: -28px;
+    }
+    #span {
+        font-size: 8px;
+        font-weight: bold;
+        color: #0000009e;
+    }
+    #p {
+        font-size: 15px;
+        margin-left: 35px;
+    }
+    #select{
+        width: 120px;
+    }
+
+    .free {
+        font-size: 23px;
+      }
+    .footer-baku {
+        left: 220px;
+    }
+.foter{
+    right: 120px;
+}
+.free{
+    right: 508px;
+}
+.f-address{
+    margin-left: 0px;
+}
+
+  nav a:not(:first-child) {
+      margin-top: 10px;
+    }
+    .date {
+        bottom: 168px;
+    }
+#adress2{
+    width: 905px;
+}
+select{
+    width: 150px;
+}
+#name{
+    width: 646px;
+}
+.foots {
+ margin-left: 48px;
+}
+
+
+
+}
